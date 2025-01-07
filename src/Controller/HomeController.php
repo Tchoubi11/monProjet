@@ -26,8 +26,8 @@ class HomeController extends AbstractController
 
         $habitats = [
             'Savane' => ['Lions', 'Girafes', 'Zèbres'],
-            'Forêt Tropicale' => ['Singes', 'Tigres', 'Perroquets'],
-            'Pôle Nord' => ['Ours Polaires', 'Manchots']
+            'Jungle' => ['Singes', 'Tigres', 'Léopards'],
+            'Marais' => ['Couguar', 'Renard gris']
         ];
 
         $services = [
